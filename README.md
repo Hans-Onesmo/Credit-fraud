@@ -1,4 +1,4 @@
-# Credit-fraud
+# Credit-fraud Detection
 # Aim
 Detect credit fraud in a dataset and create a module for real time fraud detection
 # Collecting Data
