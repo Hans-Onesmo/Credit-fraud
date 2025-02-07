@@ -4,9 +4,9 @@ Detect credit fraud in a dataset and create a module for real time fraud detecti
 # Collecting Data
 Used Kaggle data source to get credit transaction data
 # Data Analyzation
-Fraud took less time to transact and had higher mean while
+Fraud took less time to transact and had higher mean
 
-Unfraud took more time and less time
+Unfraud took more time and lower mean
 # Output
 The f1-score was 86%
 # Limitations
